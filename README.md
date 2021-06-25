@@ -1,5 +1,12 @@
-# awsCloudPractitionerEssentials
+# AWS CloudPractitionerEssentials 학습 정리
+# module 1. 기본 컴퓨터
+   - https://modernalchemist.tistory.com/71
 
-# 학습 정리 노션
+# module 2. 클라우딩 컴퓨팅
+   - https://modernalchemist.tistory.com/72?category=994121
 
-- https://www.notion.so/AWS-68e9357bc8884773817791adf5c0164d
+# module 3. 글로벌 인프라 및 안정성
+   - https://modernalchemist.tistory.com/74
+
+# module 4. 네트워킹
+   - https://modernalchemist.tistory.com/75
