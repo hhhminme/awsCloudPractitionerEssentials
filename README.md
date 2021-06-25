@@ -10,3 +10,6 @@
 
 # module 4. 네트워킹
    - https://modernalchemist.tistory.com/75
+
+# module 5. 스토리지 및 데이터베이스
+   - https://modernalchemist.tistory.com/79
